@@ -1,0 +1,6 @@
+<layers>
+<!-- uncomment to activate
+    <layer name="collective.js.photobox"
+           interface="collective.js.photobox.interfaces.ILayer" />
+-->
+</layers>
