@@ -25,6 +25,7 @@ setup(name='collective.js.photobox',
       install_requires=[
           'setuptools',
           'plone.app.jquery',
+          'collective.js.mousewheel',
           # -*- Extra requirements: -*-
       ],
       entry_points="""
