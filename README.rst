@@ -3,6 +3,8 @@ Introduction
 
 This addon register photobox_ into Plone
 
+version: v1
+
 About PhotoBox
 ==============
 
