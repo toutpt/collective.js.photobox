@@ -24,6 +24,7 @@ setup(name='collective.js.photobox',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'plone.app.jquery',
           # -*- Extra requirements: -*-
       ],
       entry_points="""

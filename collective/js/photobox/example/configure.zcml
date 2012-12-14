@@ -8,8 +8,11 @@
     name="example.collective.js.photobox"
     for="*"
     class=".photobox.Example"
-    template="*package.pt"
+    template="photobox.pt"
     permission="zope2.View"
     />
+  <browser:resource
+    name="collective.js.photobox.example.main.js"
+    file="main.js"/>
 
 </configure>
