@@ -58,14 +58,7 @@ People
 ------
 
 - JeanMichel FRANCOIS aka toutpt <toutpt@gmail.com>
-- Mathieu Le Marec - Pasquet <kiorky@cryptelium.net> 
-- Jean-Philippe Camguilhem <jp.camguilhem@gmail.com>
-- Johannes Raggam <raggam-nl@adm.at>
-- Giacomo Spettoli
 
 .. |makinacom| image:: http://depot.makina-corpus.org/public/logo.gif
 .. _makinacom:  http://www.makina-corpus.com
-.. _flickr: http://www.flickr.com
-.. _picasaweb: http://picasaweb.google.com
-.. _jcarousel: http://sorgalla.com/jcarousel
-.. _facebook: http://www.facebook.com
+.. _photobox: http://dropthebit.com/500/photobox-css3-image-gallery-jquery-plugin/
